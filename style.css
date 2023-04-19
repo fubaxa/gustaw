@@ -1,12 +1,12 @@
 *{
     padding: 3px;
     font-family: "Comic Sans MS";
-    background-color: rgb(50, 50, 51);
+    background-color: rgb(70, 70, 70);
 }
 header{
     text-align: center;
     font-size: x-large;
-    background-color: rgb(49, 0, 0);
+    background-color: rgb(4, 0, 0);
 }
 header h1{
     background-color: rgb(49, 0, 0);
