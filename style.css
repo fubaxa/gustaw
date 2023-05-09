@@ -1,15 +1,16 @@
 *{
     padding: 3px;
     font-family: "Comic Sans MS";
-    background-color: rgb(70, 70, 70);
+    background-color:cadetblue;
 }
 header{
     text-align: center;
     font-size: x-large;
-    background-color: rgb(99, 0, 0);
+    background-color:darkcyan;
+    border-radius: 20px;
 }
 header h1{
-    background-color: rgb(99, 0, 0);
+    background-color: darkcyan;
 }
 p, h2{
     width: 70%;
@@ -24,11 +25,11 @@ nav{
 }
 a{
     text-decoration: none;
-    color: aquamarine;
+    color: rgb(80, 80, 80);
     font-size: larger;
     margin: 0px;
     padding: 0px;
 }
 .this{
-    color:crimson;
+    color:rgb(0, 0, 0);
 }
